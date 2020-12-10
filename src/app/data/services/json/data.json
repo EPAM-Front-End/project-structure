@@ -1,0 +1,74 @@
+{
+   "ponies": [
+      {
+         "id": 0,
+         "name": "Applejack",
+         "imageUrl": "https://static.wikia.nocookie.net/mlp/images/d/d8/Applejack_S01E13_cropped.png",
+         "shortDescription": "Applejack is a female Earth pony and one of the main characters of My Little Pony Friendship is Magic. She lives and works at Sweet Apple Acres with her tgrandmother Granny Smith, her older brother Big McIntosh, her younger sister Apple Bloom, and her dog Winona. She represents the element of honesty.",
+         "longDescription": "Applejack is one of the only two members of the main cast who were part of the original My Little Pony cast in the 1980s animated series, the other member being Spike. Lauren Faust, the show's developer, was inspired to create Applejack by her childhood toy G1 pony Applejack.[1] Faust intended to use more characters from the first My Little Pony series, but Hasbro did not maintain the trademarks to nearly all of the original character names and most names had to be replaced.[2][3][4] Faust used the character's G1 color scheme, abandoning the dark red color from the G3 toy line. Voice actress Ashleigh Ball has cited country singers Miley Cyrus, Dolly Parton and Reba McEntire as inspiration for Applejack's voice and dialect.[5][6] She shares some personality traits with the G1 pony named Starlight (not to be confused with Starlight Glimmer). As a filly in the flashback from Where the Apple Lies, she's proportioned similarly to Plaid Stripes, \"Pearly Whites\", \"Thunderstruck\", filly Fluttershy, later filly Pear Butter, later filly Derpy, and Crystal Hoof."
+      },
+      {
+         "id": 1,
+         "name": "Pinkie Pie",
+         "imageUrl": "https://static.wikia.nocookie.net/mlp/images/b/b2/Pinkie_Pie_ID_S4E11.png",
+         "shortDescription": "Pinkie Pie, full name Pinkamena Diane Pie,[note 2] is a female Earth pony and one of the main characters of My Little Pony Friendship is Magic. She is an energetic and sociable baker at Sugarcube Corner, where she lives on the second floor with her toothless pet alligator Gummy, and she represents the element of laughter. Pinkie writes and performs many songs, and she is the source of many of the show's comical and cartoonish gags. She is called Ponka Po in some merchandise.",
+         "longDescription": "Lauren Faust was inspired to create Pinkie Pie by her childhood toy G1 Pegasus pony, Surprise.[4] The previous Pinkie Pie is a G3 pony whose coat is pink, with a lighter shade of pink for her mane and tail, and her cutie mark is three balloons with curved strings. Faust had published concept art of the G1 pony Surprise which was developed into the current Pinkie Pie. Hasbro published a recolor of the image in their Style Guide for Pinkie Pie, complete with Pegasus wings. Pinkie Pie ultimately remained wingless, with an exception in The Cutie Re-Mark - Part 2, and her wings were given to Fluttershy,[5][6] who was back then an Earth pony called Posey, and merchandise eventually gave the name Surprise to a member of the Wonderbolts. She shares some personality traits with the G1 pony named Clover. According to Lauren Faust, she used to have a 'power' of sorts when she ate too much candy, which she called a Sugar Rush.[7] She'd plow through doors in a fit of speed, which would cause the Cakes to have to replace their front door on a weekly basis.[8]Pinkie's mane and tail \"poofing up\" when she's happy and going flat when she's sad was conceived by Jim Miller for The Cutie Mark Chronicles and repeated in future episodes by James Wootton.[9] Faust said that when the show was being developed, she encouraged the crew to keep the \"wacky gags\" exclusive to Pinkie.[10] The Season 1 DVD commentary for Winter Wrap Up says that Faust had dictated that \"only Pinkie Pie could do certain crazy gags and other characters wouldn't do it.\" According to Discovery Family (previously the Hub Network)'s Twitter account and Facebook page, Pinkie Pie's birthday is May 3.[11][12] In the year 2012, this day was seventy-five days after February 18, the premiere date of A Friend in Deed, an episode in which Pinkie says that her birthday is not for another seventy-five days. When asked on Twitter if Pinkie and Marble are twins, Hearthbreakers writer Nick Confalone replied \"it comes down to your definition of twins for non-humans\"[13] and \"Marble/Pinkie not identical twins, if they were I'd call them twins.\"[14] Characters who have been referred to as twins include Pound Cake and Pumpkin Cake, Flim and Flam, Cheerilee and Cherry Blossom, Tofu and Tempeh, Antonio and Francesco, and Spa ponies."
+      },
+      {
+         "id": 2,
+         "name": "Aloe",
+         "imageUrl": "https://static.wikia.nocookie.net/mlp/images/8/87/Lotus_Blossom_id_S1E9.png",
+         "shortDescription": "The spa ponies, Lotus Blossom and Aloe, are two female Earth ponies who work at their co-owned[4][5] Ponyville Day Spa. In some credits and different merchandise, Lotus Blossom is called Lotus Bloom or simply Lotus, and Aloe is called Aloe Vera.",
+         "longDescription": "Lotus Blossom first appears in the episode Bridle Gossip, and later they appear together in Green Isn't Your Color. In the former episode, Lotus only appears briefly in the final scene, asking Zecora for the ingredients of her herbal bath. She speaks with a strong but indistinct Eastern European accent. The spa offers many services in Green Isn't Your Color, such as massages, mud baths, seaweed bath wraps, steam rooms, and even horn filing for unicorn ponies. Rarity comes in for her \"usual\" and returns for a second time as soon as she's finished. Aloe does not seem to notice that Fluttershy is not a unicorn pony when she attempts to give her a horn filing regardless before realizing her mistake."
+      },
+      {
+         "id": 3,
+         "name": "Blue Bobbin",
+         "imageUrl": "https://static.wikia.nocookie.net/mlp/images/b/b0/Blue_Bobbin_ID_S6E9.png",
+         "shortDescription": "A Rarity For You salespony in The Saddle Row Review and Fake It 'Til You Make It. Also appears on My Little Pony/Transformers Issue #1 page 11.",
+         "longDescription": "A Rarity For You salespony in The Saddle Row Review and Fake It 'Til You Make It. Also appears on My Little Pony/Transformers Issue #1 page 11. She is a character in Gameloft's mobile game, and acts as a helper during the \"Fake It 'Til You Make It\" boss battle event. Her bio states, \"This 'Rarity for You' shop-pony knows WAY more about organza than Rainbow Dash. Granted, that's a pretty low bar.\" Her cutie mark is a spool of blue thread. Voiced by Caitlyn Bairstow."
+      },
+      {
+         "id": 4,
+         "name": "Butternut",
+         "imageUrl": "https://static.wikia.nocookie.net/mlp/images/1/1e/Butternut_ID_MLPBGE.png",
+         "shortDescription": "A Bridleway costume designer and founder of the Midsummer Theatre Revival in Made in Manehattan.",
+         "longDescription": "A Bridleway costume designer and founder of the Midsummer Theatre Revival in Made in Manehattan. Her cutie mark is a heart-shaped pincushion. She is a character in Gameloft's mobile game. The game's description of her states, \"Watch as she whips up her costumes with flair, restoring the theater so that art can be shared.\""
+      },
+      {
+         "id": 5,
+         "name": "Charity Kindheart",
+         "imageUrl": "https://static.wikia.nocookie.net/mlp/images/c/cd/Charity_Kindheart_ID_S5E16.png",
+         "shortDescription": "An acorn farmer who appears in My Little Pony Best Gift Ever as Oak Nut's wife and Pistachio's mother. She is a character in Gameloft's mobile game",
+         "longDescription": "An acorn farmer who appears in My Little Pony Best Gift Ever as Oak Nut's wife and Pistachio's mother. She is a character in Gameloft's mobile game; her bio states, \"The proud proprietress of Sweet Acorn Orchard -- along with her husband -- Butternut is always thankful to meet someone who can help inspire her son.\" Voiced by Ingrid Nilson."
+      },
+      {
+         "id": 6,
+         "name": "Cheerilee",
+         "imageUrl": "https://static.wikia.nocookie.net/mlp/images/3/3d/Cheerilee_ID_S2E17.png",
+         "shortDescription": "Cheerilee shares her design and name with a Generation 3 Earth pony. She is a unicorn pony in My Little Pony Crystal Princess: The Runaway Rainbow, and her design was combined with Cherry Blossom to create her Core 7 incarnation, which developed into her current appearance. In the Core 7 series, she is the older sister of Scootaloo and her main personality trait is intelligence. In the current Generation 4, Cheerilee has a twin sister named Cherry Blossom but has no indicated familial relationship with Scootaloo.",
+         "longDescription": "Cheerilee's first appearance in the series is as a background pony in Boast Busters. She appears in the background of several more episodes, including Look Before You Sleep, Winter Wrap Up, Green Isn't Your Color, and The Cutie Mark Chronicles. She is a member of both the animal and plant team in the musical number from Winter Wrap Up. Her first significant role is in Call of the Cutie, in which she teaches her students about cutie marks and explains their purpose. Even though she has a speaking part, her name is not stated on-screen. She shows the students photos of herself as a young child and as a teenager, with no cutie mark. She compassionately tells her class that her cutie mark symbolizes her care for each of her students, and her desire to help them learn and grow. Diamond Tiara and Silver Spoon interrupt class by passing a note to Apple Bloom, and Cheerilee asks Apple Bloom to show the note to the class; the note is blank, and Diamond Tiara remarks that so is Apple Bloom's flank."
+      },
+      {
+         "id": 7,
+         "name": "Cherry Jubilee",
+         "imageUrl": "https://static.wikia.nocookie.net/mlp/images/1/13/Cherry_Jubilee_id_S02E14.png",
+         "shortDescription": "Cherry Jubilee is a female Earth pony who first appears in the season two episode The Last Roundup. She is the owner and boss of Cherry Hill Ranch in Dodge Junction. She is called Cherries Jubilant in some merchandise.",
+         "longDescription": "In The Last Roundup, Applejack is temporarily hired at Cherry Hill Ranch, a farm in Dodge Junction that is owned by Cherry Jubilee. According to Applejack, she met Cherry Jubilee at her cherry stand at the Equestria Rodeo in Canterlot and warmed up to her because they both worked in orchards. Later in the episode, Cherry Jubilee allows the main characters to help Applejack with farm work. Cherry Jubilee can be seen sitting next to Fleur Dis Lee in the Crystal Empire stadium in Equestria Games."
+      },
+      {
+         "id": 8,
+         "name": "Coco Pommel",
+         "imageUrl": "https://static.wikia.nocookie.net/mlp/images/b/bc/Coco_Pommel_ID_S4E8.png",
+         "shortDescription": "Coco Pommel, or Miss Pommel, is a female Earth pony and supporting character who first appears in the season four episode Rarity Takes Manehattan. She is a Bridleway dressmaker and Suri Polomare's former assistant.",
+         "longDescription": "Coco is an Earth pony with an off-white coat and two-tone blue mane and tail. She has a similar color scheme to \"Cultivar\". She wears a white-bordered lavender sailor collar with a scarlet tie and a tri-shade hair clip in the back of her mane. Her cutie mark is a lavender floppy hat with a scarlet feather. Her name is a reference to Coco Chanel,[2] a famous French fashion designer and iconic perfumer. The word \"pommel\" is a term for the front of a saddle, also commonly known as the \"swell\" in the West. On April 3, 2014, the official Facebook page of Gameloft's mobile game was asked regarding the game's addition of Trenderhoof, Astro Pony, and Richard the Hoovenheart \"pretty random selection if you ask me, why not Coco Pommel?\" and responded \"Well, Coco Pommel is a nice idea too. We'll keep that in mind.\"[3]"
+      },
+      {
+         "id": 9,
+         "name": "Mane-iac",
+         "imageUrl": "https://static.wikia.nocookie.net/mlp/images/6/6e/Mane-iac_ID_S4E06.png",
+         "shortDescription": "The Mane-iac is a female Earth pony super-villain from Maretropolis who first appears in the season four episode Power Ponies. She is the archenemy of the comic book superhero team, the Power Ponies. She is called Mane-iac Mayhem in some merchandise.",
+         "longDescription": "Inside the factory, the Mane-iac uses the Electro-Orb to power her doomsday device, which resembles a cross between a large pink blowdryer and a cannon. The Mane-iac says she will use the cannon to amplify the power of her mane by \"one million times\", expelling an energy blast that will cause everyone in Maretropolis's mane to grow wild. As she gives her victory speech to her followers, Spike traps some of her henchponies and helps in freeing his friends. Just before the Mane-iac can use her weapon on Fluttershy/Saddle Rager, a firefly enters her line of fire, and she swats it. This action angers Saddle Rager, transforming her into a powerful muscular pony. The Mane-iac fires her doomsday device at Saddle Rager, but the beam reflects off Saddle Rager and hits the Mane-iac instead. Saddle Rager destroys the doomsday device, and the Mane-iac's mane grows out of control, wrapping around her like a straitjacket."
+      }
+   ]
+}

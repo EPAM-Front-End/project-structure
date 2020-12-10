@@ -1,0 +1,13 @@
+{
+   "printWidth": 168,
+   "tabWidth": 3,
+   "singleQuote": true,
+   "trailingComma": "none",
+   "parser": "babel",
+   "semi": true,
+   "requirePragma": false,
+   "proseWrap": "preserve",
+   "arrowParens": "avoid",
+   "htmlWhitespaceSensitivity": "css",
+   "quoteProps": "as-needed"
+}

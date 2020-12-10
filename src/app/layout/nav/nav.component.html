@@ -1,0 +1,24 @@
+<div class="wrapper">
+   <div class="toolbar">
+      <mat-toolbar color="primary">
+         <div class="container">
+            <span class="branding spacer center d-none d-sm-inline d-md-none">
+               {{ 'EPAM Ponies' }}
+            </span>
+            <span class="branding spacer d-none d-md-inline">
+               {{ 'EPAM Ponies' }}
+            </span>
+            <div class="nav-items">
+               <button mat-button class="nav-item" *ngFor="let item of navItems" [routerLink]="[item.link]" routerLinkActive="active">
+                  {{ item.title }}
+               </button>
+            </div>
+            <fa-icon icon="adjust"></fa-icon>
+            <mat-slide-toggle [checked]="isDarkTheme$ | async" (change)="toggleTheme($event.checked)" fxFlexAlign="end" class="theme-toggle"> </mat-slide-toggle>
+            <button mat-button class="nav-button" routerLink="">
+               {{ 'Log out' }}
+            </button>
+         </div>
+      </mat-toolbar>
+   </div>
+</div>
